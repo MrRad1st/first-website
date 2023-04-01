@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(211, 95, 237);
+    background-image: url(images/1572379.jpg);
+}
+.menutitle{
+    margin-bottom: 0;
+}
+.menutitlehr{
+    width: 200px;
+    background-color: darkmagenta;
+    border-color: darkmagenta;
+    height: 3px;
+    border-radius: 100px;
+}
+.middle{
+    border-radius: 20px;
+    background-color: rgb(169, 52, 163);
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 10px;
+}
+.drink, .dessert{
+    width: 80%;
+    /* padding-right: 50%; */
+    /* margin-right: 40%; */
+    text-align: left;
+    display: inline;
+}
+.price{
+    width: 20%;
+    /* margin-left: 20%; */
+    text-align: right;
+    display: inline;
+}
+.item{
+    width: 80%;
+    display: inline-block;
+}
+.item p{
+    display: inline-block;
+}
+.itemhr{
+    width: 30%;
+    background-color: darkmagenta;
+    height: 1px;
+    border-color: darkmagenta;
+}
+.icon{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+.menufooter{
+    border-radius: 10px;
+    padding: 0.1%;
+    background-color: rgb(169, 96, 238);
+}
+.menufooter p{
+    font-size: 18px;
+}
+.mainfooter{
+    border-radius: 20px;
+    background-color: rgba(0, 255, 255, 0.489);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 10px;
+}
+
+.second_div{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: rgb(169, 52, 163);
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 10px;
+}
+.third_div{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: rgb(169, 52, 163);
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-right: 15%;
+    /* margin-left: 15%; */
+    padding: 10px;
+}
